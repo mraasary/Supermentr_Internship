@@ -1,5 +1,6 @@
-"""Assignment Name : Logic Builder
-Description : Print numbers 1–50 with Fizz/Buzz logic and count occurrences using loops and functions."""
+"""Assignment (17/02/2026)
+   Assignment Name : Logic Builder
+   Description : Print numbers 1–50 with Fizz/Buzz logic and count occurrences using loops and functions."""
 
 def fizz_buzz():
     fizz=buzz=fizzbuzz=0
@@ -25,4 +26,5 @@ def fizz_buzz():
 if __name__ == "__main__":
     fizz_buzz()
     
+
             
