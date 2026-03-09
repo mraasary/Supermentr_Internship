@@ -2,22 +2,28 @@ Assignment Date: 02/03/2026
 Assignment Name: ML Idea Generator
 
 ML Problem Ideas (Input ? Output)
-1. College Domain – Student Performance Prediction
+1. College Domain â€“ Student Performance Prediction
 * Input: Student attendance, assignment marks, internal test scores, study hours
 * Output: Predicted final exam performance (Pass/Fail or Grade)
-2. College Domain – Course Recommendation System
+
+2. College Domain â€“ Course Recommendation System
 * Input: Student interests, previous course performance, skills
 * Output: Recommended courses or electives for the student
-3. Healthcare Domain – Disease Prediction System
+
+3. Healthcare Domain â€“ Disease Prediction System
 * Input: Patient symptoms, medical history, age, test results
 * Output: Possible disease prediction or health risk level
-4. Healthcare Domain – Hospital Appointment Prediction
+
+4. Healthcare Domain â€“ Hospital Appointment Prediction
 * Input: Patient visit history, symptoms, doctor availability
 * Output: Suggested appointment schedule or doctor recommendation
-5. Shopping Domain – Product Recommendation System
+
+5. Shopping Domain â€“ Product Recommendation System
 * Input: User browsing history, previous purchases, product ratings
 * Output: Personalized product recommendations
-6. Shopping Domain – Customer Demand Prediction
+
+6. Shopping Domain â€“ Customer Demand Prediction
 * Input: Past sales data, seasonal trends, product category
 * Output: Predicted demand for products in the future
+
 
